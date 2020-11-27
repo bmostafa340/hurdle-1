@@ -3,6 +3,10 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class Main {
 	
+	/*
+	 * ints used instead of booleans to increase the convenience
+	 * of additional types of flights and runways.
+	 */
 	private static final int MAJOR = 1;
 	private static final int MINOR = 2;
 	private static final int ARRIVAL = 1;
