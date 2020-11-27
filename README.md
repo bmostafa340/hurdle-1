@@ -1,5 +1,5 @@
 # hurdle-1
-Queue scheduling model of SFO's September 2019 flight delays due to construction - accepted solution to Ph 11 2019 Hurdle 1
+Queue scheduling model of SFO's September 2019 flight delays due to construction - accepted solution to Ph 11 2019 Hurdle 1.
 
 See the report PDF for the full project, as well as a more detailed explanation of the programs and their context.
 
