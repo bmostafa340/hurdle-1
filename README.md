@@ -1,7 +1,7 @@
 # hurdle-1
 Queue scheduling model of SFO's September 2019 flight delays due to construction - accepted solution to Ph 11 2019 Hurdle 1.
 
-Code overview:
+Code Overview:
   - Main constructs a day of flights based on data from a day in mid-September of 2018 using Reader. It then assigns
     flights which are due for arrival/departure to runways as they become available. It records flight delays
     hour by hour and prints the results.
